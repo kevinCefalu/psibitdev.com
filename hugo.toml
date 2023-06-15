@@ -4,6 +4,7 @@ baseURL = 'http://blog.psibitdev.com/'
 theme = 'hugo-theme-shell'
 languageCode = 'en-us'
 
+
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Kevin Cefalu's Portfolio!"
