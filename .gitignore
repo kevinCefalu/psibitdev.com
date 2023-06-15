@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+###############################################################
+## Custom Entries
+
+.hugo_build.lock
+**/_gen
