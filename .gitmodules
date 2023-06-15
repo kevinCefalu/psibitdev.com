@@ -1,3 +1,6 @@
 [submodule "app/themes/hugo-theme-shell"]
 	path = app/themes/hugo-theme-shell
 	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "app/themes/hello-4s3ti"]
+	path = app/themes/hello-4s3ti
+	url = https://github.com/4s3ti/hugo-theme-hello-4s3ti.git
