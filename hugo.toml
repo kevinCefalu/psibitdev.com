@@ -4,6 +4,11 @@ baseURL = 'http://blog.psibitdev.com/'
 theme = 'hugo-theme-shell'
 languageCode = 'en-us'
 
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "v0.85.0"
+
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Kevin Cefalu's Portfolio"
@@ -12,7 +17,7 @@ languageCode = 'en-us'
   # Note: You can choose between the following color schemes:
   # Note: hugo-theme-shell: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "shell-powershell"
+  scheme = "Powershell"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
