@@ -1,0 +1,7 @@
+title = 'PsiBit Development'
+baseURL = 'http://blog.psibitdev.com/'
+
+theme = 'hugo-theme-shell'
+
+defaultContentLanguage = 'en'
+languageCode = 'en-us'
