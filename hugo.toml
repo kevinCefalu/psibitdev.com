@@ -28,8 +28,8 @@ languageCode = 'en-us'
   # Note: result of the tree command
 
   userName = "psibit"
-  pcName = "desktop"
-  workDir = "blog"
+  pcName = "stapp-blog-hugo"
+  workDir = "src"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
